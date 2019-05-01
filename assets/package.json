@@ -1,0 +1,19 @@
+{
+  "name": "assets",
+  "version": "1.0.0",
+  "description": "the app ever made thus far",
+  "main": "nodemon.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ur moms house"
+  },
+  "author": "k-fizzle enterprises",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.7.1",
+    "jshint": "^2.10.2"
+  }
+}
